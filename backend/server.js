@@ -11,7 +11,11 @@ const app = express();
 // CORS configuration with explicit origin
 app.use(
   cors({
-    origin: ["http://localhost:3000", "*"],
+    origin: [
+      "http://localhost:3000",
+      "*",
+      "https://full-stack-demo-dashboard-projectproject.vercel.app/",
+    ],
     credentials: true, // Allow credentials (cookies)
   })
 );
