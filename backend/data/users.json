@@ -1,0 +1,46 @@
+[
+  {
+    "username": "testuser",
+    "password": "$2a$08$eGOCRhhZFvvTt8pHSeutZ..FgN58gA6yvY/aEItGKJhIZeaPQe.2e"
+  },
+  {
+    "username": "yash@gmail.com",
+    "password": "$2a$08$LNJrhQnrDnThKl8MYaXlfOLNlZTPRy2UAoEj2IhY.dc4OBCDC56fm"
+  },
+  {
+    "username": "yash1@gmail.com",
+    "password": "$2a$08$4HFu0EFPs8REqga1uWz50uck3zrmZiWeB/wFfH9.HL9KbCuc0Suk6"
+  },
+  {
+    "username": "yash2@gmail.com",
+    "password": "$2a$08$qbicgBbHP93Zp9FE0RfwNuWAkAEgLrY2RQ1AgrsHUKg1k/KaWClwm"
+  },
+  {
+    "username": "yash3@gmail.com",
+    "password": "$2a$08$rO0jXkJJoCmh86Lw/wG86e0ZBw8jEmDPoxEaQJYcR4aIZam3j9S8y"
+  },
+  {
+    "username": "yash12",
+    "password": "$2a$08$ZcZMybmNO0SuoR6CPAo70uVpWSDzJ7itSufiZCNOQ9O8mwLLvBQ9W"
+  },
+  {
+    "username": "yash1",
+    "password": "$2a$08$WMDoGHLKPSJ0dIBV/hnqP.7YIRn5UV7VFk4r.Rl2Z4/tv2Ar.XQK."
+  },
+  {
+    "username": "yash123",
+    "password": "$2a$08$fsYlEQ1SbwVAlaWVsA66e.XVCddBVIWIo6Tl6HmZovP35n7edRUNe"
+  },
+  {
+    "username": "yash1243",
+    "password": "$2a$08$Bhur4uku03vKRc1XXBedZO314M2MkrRfnrS8b2xv7X8Kz17AR89vW"
+  },
+  {
+    "username": "ammu",
+    "password": "$2a$08$Gd0SjYtBN9YY5lLiMaVTquUpjKXvZvAybuCY2lKnQKwPtq0HimJOy"
+  },
+  {
+    "username": "ammu1",
+    "password": "$2a$08$s0I6FxaUVkMlcPiXxNKIUuMV2Jjv72OnWQqfHeqsjYrv6pWDAgbQq"
+  }
+]
